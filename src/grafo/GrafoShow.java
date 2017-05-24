@@ -23,9 +23,9 @@ public class GrafoShow {
     public static void main(String[] args) {
         DesenhaPontos m = new DesenhaPontos();
         
-        //m.le();
-       // m.imprimePontos();
-       // m.CriarMatrizDistancia();
+        m.le();
+        m.imprimePontos();
+        m.CriarMatrizDistancia();
         
         
         File f = new File("coordenadasCorrigidas.txt");
