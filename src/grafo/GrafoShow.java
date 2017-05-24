@@ -23,6 +23,8 @@ public class GrafoShow {
     public static void main(String[] args) {
         DesenhaPontos m = new DesenhaPontos();
         
+        //é necessário excluir arquivo alciomar_result
+        
         //m.le();
        // m.imprimePontos();
        // m.CriarMatrizDistancia();
@@ -41,9 +43,7 @@ public class GrafoShow {
         segs.drawAnimated(img,1f);
         segs.drawSegments(img,.1f);
         
-        //Hortolandia;Sao Paulo;SP;-22.85;-47.25
-        //Campinas;Sao Paulo;SP;-22.9;-47.0833333
-        //System.out.print("Distancia: H -> C "+m.distancia(-22.85, -22.9, -47.25, -47.0833333));
+        
     }
     
 }
