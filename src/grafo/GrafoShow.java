@@ -22,7 +22,7 @@ public class GrafoShow {
         
         //Hortolandia;Sao Paulo;SP;-22.85;-47.25
         //Campinas;Sao Paulo;SP;-22.9;-47.0833333
-        System.out.print("Distancia: H -> C "+m.distancia(-22.85, -22.9, -47.25, -47.0833333));
+        //System.out.print("Distancia: H -> C "+m.distancia(-22.85, -22.9, -47.25, -47.0833333));
     }
     
 }
