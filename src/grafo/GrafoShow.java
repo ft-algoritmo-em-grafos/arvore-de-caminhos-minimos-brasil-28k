@@ -23,8 +23,7 @@ public class GrafoShow {
     public static void main(String[] args) {
         DesenhaPontos m = new DesenhaPontos();
         
-
-        //é necessário excluir arquivo alciomar_result
+       
                 
 
         //m.le();
